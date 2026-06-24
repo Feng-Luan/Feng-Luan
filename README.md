@@ -1,18 +1,31 @@
-# Hi, I'm Feng Luan
+# Feng Luan
 
-Ph.D. in Statistics from Northern Illinois University.
+Ph.D. in Statistics | Data Scientist
 
-Interests:
-- Bayesian Statistics
-- Survival Analysis
-- Data Science
-- Survey Research
-- Healthcare Analytics
+I develop reproducible statistical and data science workflows for healthcare analytics, survey research, Bayesian modeling, and bioinformatics applications.
 
-Skills:
+## Technical Skills
+
 R | Python | SQL | SAS | Git
 
-Projects:
-- alpmixBayes
-- Bayesian Survival Modeling
-- Bioinformatics Analysis
+## Research Interests
+
+* Survey Research & Data Quality
+* Bayesian Statistics
+* Survival Analysis
+* Healthcare Analytics
+* Bioinformatics
+
+## Featured Projects
+
+### Survey Data Quality and Weighting Workflow
+
+Reproducible R workflow for survey quality control, raking-based weighting, and client-style reporting.
+
+### alpmixBayes
+
+R package for Bayesian estimation of alpha-mixture survival models.
+
+### Bioinformatics Analysis
+
+Genomic and metagenomic data analysis using Python and high-performance computing.
