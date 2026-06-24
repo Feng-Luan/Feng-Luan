@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Feng Luan
 
-<!--
-**Feng-Luan/Feng-Luan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. in Statistics from Northern Illinois University.
 
-Here are some ideas to get you started:
+Interests:
+- Bayesian Statistics
+- Survival Analysis
+- Data Science
+- Survey Research
+- Healthcare Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+R | Python | SQL | SAS | Git
+
+Projects:
+- alpmixBayes
+- Bayesian Survival Modeling
+- Bioinformatics Analysis
